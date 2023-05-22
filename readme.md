@@ -38,7 +38,7 @@ Currently diving deeper into
 
 You can ask me about anything related to testing and testing trends. If I don't know the answer, I will learn something new!
 
-📫 How to reach me
+📫 Connect with me
 
 [![website](./img/globe-light.svg)](https://executeautomation.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://executeautomation.com#gh-dark-mode-only)
