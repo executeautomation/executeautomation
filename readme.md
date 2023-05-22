@@ -25,8 +25,8 @@ Here are some of the testing technologies and lanugages ExecuteAutomation repo c
 
 ⚡️ Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-dark-mode-only)
+[![Top Langs stats-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=executeautomation&hide_progress=false&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/executeautomation/github-readme-stats#gh-light-mode-only)
 
 🌱 Currently learning and working
 
