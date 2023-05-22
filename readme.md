@@ -40,10 +40,14 @@ You can ask me about anything related to testing and testing trends. If I don't 
 
 📫 How to reach me
 
-Feel free to reach out if you have any questions or if you just want to chat!
-
-* Twitter: @executeauto
-* LinkedIn: www.linkedin.com/in/karthikkk
-* Email: karthik@techgeek.co.in
-* ExecuteAutomation Platform: https://executeautomation.com
-* Medium: http://medium.com/executeautomation/new-story
+[![website](./img/globe-light.svg)](https://executeautomation.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://executeautomation.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/executeautomation#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/executeautomation#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/executeauto#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/executeauto#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/karthikkk#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/karthikkk#gh-dark-mode-only)
