@@ -29,10 +29,10 @@ Here are some of the testing technologies and lanugages ExecuteAutomation repo c
 🌱 Currently learning and working
 
 Currently diving deeper into 
-* Machine Learning 
-* Linux
-* Security Testing
-* Updating my Udemy courses :D
+* Machine Learning 🦾
+* Linux 🐧
+* Security Testing 🔐
+* Updating my Udemy courses 🤯
 
 💬 Ask me about
 
