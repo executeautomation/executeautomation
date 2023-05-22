@@ -1,13 +1,18 @@
 Welcome to ExecuteAutomation Repo! 👋
 
-I'm Karthik KK, a software test consultant based in Auckland, NZ. I have a passion for writing clean, efficient test code and I love the fast-paced, challenging environment of testing tech. In my free time, I contribute to write technical articles on my blog, create courses in Udemy and have created almost 1000+ YouTube videos.
+I'm Karthik KK, a software test consultant based in Auckland, NZ. I have a passion for writing clean, efficient test code and I love the fast-paced, challenging environment of testing tech. In my free time, I contribute to write technical articles on my blog, created 30+ courses in Udemy and have created almost 1000+ YouTube videos.
+
+📚🚀 Udemy and YouTube courses
+
+* Udemy: https://www.udemy.com/user/karthik-kk/
+* YouTube: https://www.youtube.com/executeautomation
 
 ⚡ Tech Stack
 
 Here are some of the testing technologies and lanugages ExecuteAutomation repo covers:
 
-- Languages: JavaScript (Node.js), TypeScript, C#, Java, Dart
 - Testing Tools: Playwright, Selenium, Cypress, RestSharp, RestAssured, Pact.NET, Specflow, Cucumber and more...
+- Languages: JavaScript (Node.js), TypeScript, C#, Java, Dart
 - Databases: MongoDB, PostgreSQL, MySQL, MS SQL
 - DevOps: Docker, Jenkins, AWS, Azure
 - Frontend: React, Angular, Vue.js
@@ -28,11 +33,6 @@ Currently diving deeper into
 * Linux
 * Security Testing
 * Updating my Udemy courses :D
-
-📚🚀 Udemy and YouTube courses
-
-* Udemy: https://www.udemy.com/user/karthik-kk/
-* YouTube: https://www.youtube.com/executeautomation
 
 💬 Ask me about
 
