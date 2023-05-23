@@ -54,5 +54,5 @@ You can ask me about anything related to testing and testing trends. If I don't 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/karthikkk#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/karthikkk#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/medium-light.svg)](http://medium.com/executeautomation#gh-light-mode-only)
-[![website](./img/medium-dark.svg)](http://medium.com/executeautomation#gh-dark-mode-only)
+[![website](./img/medium-light.png)](http://medium.com/executeautomation#gh-light-mode-only)
+[![website](./img/medium-dark.png)](http://medium.com/executeautomation#gh-dark-mode-only)
