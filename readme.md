@@ -1,6 +1,6 @@
-Welcome to ExecuteAutomation Repo! 👋
+# Welcome to ExecuteAutomation Repo! 👋
 
-I'm Karthik KK, a software test consultant based in Auckland, NZ. I have a passion for writing clean, efficient test code and I love the fast-paced, challenging environment of testing tech. In my free time, I contribute to write technical articles on my blog, created 30+ courses in Udemy and have created almost 1000+ YouTube videos.
+I'm Karthik KK, a software test consultant based in Auckland, NZ. I have a passion for writing clean, efficient test code and I love the fast-paced, challenging environment of testing tech. In my free time, I contribute to write technical articles on my blog, ended up publishing 30+ courses in Udemy and almost 1000+ YouTube videos.
 
 📚🚀 Udemy and YouTube courses
 
