@@ -7,9 +7,7 @@ I'm Karthik KK, a software test consultant based in Auckland, NZ. I have a passi
 * Udemy: https://www.udemy.com/user/karthik-kk/
 * YouTube: https://www.youtube.com/executeautomation
 
-⚡ Tech Stack
-
-Here are some of the testing technologies and lanugages ExecuteAutomation repo covers:
+⚡ Tech Stacks
 
 - Testing Tools: Playwright, Selenium, Cypress, RestSharp, RestAssured, Pact.NET, Specflow, Cucumber and more...
 - Languages: JavaScript (Node.js), TypeScript, C#, Java, Dart
